@@ -5,36 +5,6 @@
 <h4 align="center"> 
 	:construction: NextLevelWeek 1.0 🚀 In progress.. :construction:
 </h4>
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EvertonFerreira96/nlw-1.0-ecoleta?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EvertonFerreira96/nlw-1.0-ecoleta">
-	
-  <a href="https://www.linkedin.com/in/EvertonFerreira96/">
-    <img alt="Made by EvertonFerreira96" src="https://img.shields.io/badge/made%20by-EvertonFerreira96-%2304D361">
-  </a>
-
-  <a href="https://github.com/EvertonFerreira96/nlw-1.0-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EvertonFerreira96/nlw-1.0-ecoleta">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/EvertonFerreira96/nlw-1.0-ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/EvertonFerreira96/nlw-1.0-ecoleta?style=social">
-  </a>
-</p>
-<p align="center">
-<a href="https://insomnia.rest/run/?label=NLW%201.0%20Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2FEvertonFerreira96%2FNLW-1.0%2Fmaster%2Fbackend%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-<p align="center">
-  <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
 
 ## :information_source: What's Next Level Week?
 
