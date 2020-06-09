@@ -8,9 +8,7 @@
 
 ## :information_source: What's Next Level Week?
 
-NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
-Through our method you will learn new tools, learn about new technologies and discover hacks that will boost your career.
-An online and completely free event that will help you take the next step in your evolution as a dev.
+A Rocketseat semana passada realizou a primeira #nlw - Next Level Week, uma reformulação da Semana Omnistack com o projeto Ecoleta utilizando as tecnologias TypeScript, Node, React e React Native, com o objetivo de estabelecer uma conexão entre empresas e/ou entidades que coletam resíduos (orgânicos e inorgânicos) às pessoas e/ou entidades que necessitam constantemente descartar esses resíduos.
 
 ### Days
 - Dia 1: Acelerando sua evolução 01/06 - ✅
